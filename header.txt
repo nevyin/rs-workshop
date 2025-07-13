@@ -1,3 +1,6 @@
-some text
-changes from <master> - new changes!!!
+some textD
+changes from <master>
+changes from <first>
+
+Text from master: new changes!!!
 
